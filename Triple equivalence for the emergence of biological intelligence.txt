@@ -1,7 +1,6 @@
 Title: Triple equivalence for the emergence of biological intelligence
 
 
-
 ## Abstract
 Intelligent algorithms developed evolutionarily within neural systems are considered in this work. Mathematical analyses unveil a triple equivalence between canonical neural networks, variational Bayesian inference under a class of partially observable Markov decision processes, and differentiable Turing machines, by showing that they minimise the shared Helmholtz energy. Consequently, canonical neural networks can biologically plausibly perform variational Bayesian inferences of external Turing machines. Applying Helmholtz energy minimisation at the species level facilitates deriving active Bayesian model selection inherent in natural selection, resulting in the emergence of adaptive algorithms. Canonical neural networks with two mental actions can form a universal machine by separately memorising transition mappings of multiple external Turing machines. These propositions are corroborated by numerical simulations of algorithm implementation and neural network evolution. These notions offer a universal characterisation of biological intelligence emerging from evolution in terms of Bayesian model selection and belief updating.
 
