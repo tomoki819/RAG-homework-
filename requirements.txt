@@ -1,0 +1,3 @@
+transformers
+google-colab-selenium
+bitsandbytes
