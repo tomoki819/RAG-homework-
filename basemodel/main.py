@@ -1,4 +1,3 @@
-from config import device
 from model_loader import model, tokenizer
 from generate import generate_output
 from evaluate_relevance import evaluate_relevance
