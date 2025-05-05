@@ -2,3 +2,4 @@ transformers
 google-colab-selenium
 bitsandbytes
 accelerate
+pymupdf
