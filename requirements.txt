@@ -1,4 +1,5 @@
 transformers
 google-colab-selenium
 bitsandbytes
-
+bitsandbytes --prefer-binary --no-cache-dir
+accelerate
